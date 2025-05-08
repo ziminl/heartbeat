@@ -7,7 +7,8 @@ and the anticheat's heartbeat contains uuid, token, sign for trust and defines i
 
 > hmac.py
 
-hmac for 
+hmac is used in anticheat
+
 ecdsa,rsa is slow and difficult. 
 
 aes is well used one, but this is just an example for hbeat so didnt use it.
